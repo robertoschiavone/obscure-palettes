@@ -13,3 +13,8 @@ gray (which have the same brightness) and dark-gray
 (except for the gray scale and amber/yellow)
 
 ![palette](palette.png)
+
+---
+
+*Source*: [reddit.com](https://www.reddit.com/r/unixporn/comments/hjzw5f/oc_qualitative_color_palette_for_ansi_terminal/)
+
